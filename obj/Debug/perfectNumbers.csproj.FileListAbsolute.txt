@@ -1,0 +1,8 @@
+E:\Collage\Programing\college\perfectNumbers\perfectNumbers\bin\Debug\perfectNumbers.exe.config
+E:\Collage\Programing\college\perfectNumbers\perfectNumbers\bin\Debug\perfectNumbers.exe
+E:\Collage\Programing\college\perfectNumbers\perfectNumbers\bin\Debug\perfectNumbers.pdb
+E:\Collage\Programing\college\perfectNumbers\perfectNumbers\obj\Debug\perfectNumbers.csproj.AssemblyReference.cache
+E:\Collage\Programing\college\perfectNumbers\perfectNumbers\obj\Debug\perfectNumbers.csproj.SuggestedBindingRedirects.cache
+E:\Collage\Programing\college\perfectNumbers\perfectNumbers\obj\Debug\perfectNumbers.csproj.CoreCompileInputs.cache
+E:\Collage\Programing\college\perfectNumbers\perfectNumbers\obj\Debug\perfectNumbers.exe
+E:\Collage\Programing\college\perfectNumbers\perfectNumbers\obj\Debug\perfectNumbers.pdb
